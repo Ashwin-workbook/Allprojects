@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicHttpAuthentication", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILoggerConsole", "ILoggerConsole\ILoggerConsole.csproj", "{3C626F38-1EB1-434A-ADDB-D9C69B055476}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMinimalApi", "SimpleMinimalApi\SimpleMinimalApi.csproj", "{797BAC0B-7402-612D-0E86-A59FDF75B307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3C626F38-1EB1-434A-ADDB-D9C69B055476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C626F38-1EB1-434A-ADDB-D9C69B055476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C626F38-1EB1-434A-ADDB-D9C69B055476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
