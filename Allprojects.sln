@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILoggerConsole", "ILoggerCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMinimalApi", "SimpleMinimalApi\SimpleMinimalApi.csproj", "{797BAC0B-7402-612D-0E86-A59FDF75B307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILoggerMinimalApi", "ILoggerMinimalApi\ILoggerMinimalApi.csproj", "{5A41EBD7-C2FF-3620-9337-F8902A6453F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{797BAC0B-7402-612D-0E86-A59FDF75B307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A41EBD7-C2FF-3620-9337-F8902A6453F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A41EBD7-C2FF-3620-9337-F8902A6453F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A41EBD7-C2FF-3620-9337-F8902A6453F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A41EBD7-C2FF-3620-9337-F8902A6453F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
