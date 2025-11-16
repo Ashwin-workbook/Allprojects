@@ -1,0 +1,6 @@
+@AutomapperMinimalApi_HostAddress = http://localhost:5070
+
+GET {{AutomapperMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
